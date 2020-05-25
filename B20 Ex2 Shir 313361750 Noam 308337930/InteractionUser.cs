@@ -13,7 +13,7 @@ public class InteractionUser
 
         IsValidSizeOfBoard(i_size);
 
-        //return boardHight;
+        ////return boardHight;
     }
 
     public static int GetWidthOfBoard()
